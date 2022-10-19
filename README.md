@@ -1,2 +1,5 @@
-# Real--time-Traffic-Video
-Project Real- time Traffic Video
+AUT RnD Project
+Python - AI - ML - DL
+OpenCV - YOLOv5
+
+Real-time traffic Video Generation
