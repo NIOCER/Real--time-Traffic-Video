@@ -1,4 +1,4 @@
-from tkinter import *  # 调用GUI库, 适合小型GUI程序编写
+from tkinter import *  # Call GUI library, suitable for small GUI program writing
 from tkinter.filedialog import *
 import numpy as np
 import cv2
@@ -39,4 +39,4 @@ button3.pack(padx=3, pady=3)
 '''
 
 window.title("Test")
-window.mainloop()   #调用组件的mainloop()方法，进入事件循环
+window.mainloop()   #Call the component's mainloop () method to enter the event loop
