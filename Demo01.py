@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @File  : Demo.py
-# @Author: Jiahao Guo
-# @Date  : 2020/10/3
-
 from tkinter import *  # 调用GUI库, 适合小型GUI程序编写
 from tkinter.ttk import Progressbar  # 调用读取条
 from tkinter.filedialog import askopenfilename  # 调用读取文件路径
